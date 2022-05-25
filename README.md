@@ -7,3 +7,4 @@ Clone the repo and open it in Visual Studio, then run the program.
 # TODO
 - Add RMB functionality.
 - Fix crash when LMB CPS is set to 1.
+![alt text](https://i.imgur.com/lnEhkso.png)
